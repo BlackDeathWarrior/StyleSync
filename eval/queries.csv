@@ -1,0 +1,2 @@
+query_image_path,expected_external_ids
+# Add rows like: eval/images/kurta_blue.jpg,"SKU-001,SKU-002"
