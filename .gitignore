@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.env
+*.env
+
+# Node
+node_modules/
+.next/
+out/
+.vercel/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Data / eval artifacts
+data/*.csv
+data/*.jsonl
+eval/images/
+eval/*.json
+
+# Docker
+*.log
+
+# Secrets
+*.pem
+*.key
+secrets/
